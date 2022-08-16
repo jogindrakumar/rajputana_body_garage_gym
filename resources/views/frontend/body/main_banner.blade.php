@@ -5,10 +5,13 @@
 
         <div class="video-overlay header-text">
             <div class="caption">
-                <h6>work harder, get stronger</h6>
-                <h2>Rajputana Body Garage <em>gym</em></h2>
+                {{-- <h6>work harder, get stronger</h6> --}}
+                
+                <h2 style="font-family: 'Righteous', cursive;text-transform: capitalize;">Lift <em>Up</em></h2>
+                <h6 class="mb-2">Commit to Be fit</h6>
+
                 <div class="main-button scroll-to-section">
-                    <a href="#features">Become a member </a>
+                    <a href="#features">Become a member <i class="fas fa-dumbbell"></i></a>
                 </div>
             </div>
         </div>

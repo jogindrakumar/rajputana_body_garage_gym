@@ -3,7 +3,8 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-xs-12">
                     <div id="map">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d46745.705399777355!2d77.15098216765804!3d28.70244052374601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d28.671999999999997!2d77.2046848!4m5!1s0x390d01e5d5d97f37%3A0xe95a556b89e16f13!2sRajputana%20Body%20Garage%2C%20Pocket%208%2C%20Sector%2016A%2C%20Rohini%2C%20Delhi!3m2!1d28.735985399999997!2d77.12481799999999!5e0!3m2!1sen!2sin!4v1645595899964!5m2!1sen!2sin" width="100%" height="600px" frameborder="0" style="border:0" allowfullscreen></iframe>
+                      
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3499.1078213691403!2d77.28073161435469!3d28.716323582384774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfdffb83f1799%3A0xcce7990042b2aad7!2sLift%20Up%20Gym!5e0!3m2!1sen!2sin!4v1660484941752!5m2!1sen!2sin" width="100%" height="600px" frameborder="0" style="border:0" allowfullscreen></iframe>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-xs-12">
